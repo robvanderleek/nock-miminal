@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^16.35.0",
-    "nock": "^11.7.0"
+    "nock": "^11.7.0",
+    "probot": "^9.6.6"
   },
   "jest": {
     "testEnvironment": "node"
